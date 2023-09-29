@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="mode_datasus_data" id="EBA339E8-6AB3-71E5-ABC6-FED66275E9C2" version="3.5">
+<createdBy>pedro.santos</createdBy>
+<createdTime>2023-09-29 13:53:09 UTC</createdTime>
+<ownerDesignName>mode_datasus_data</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>EBA339E8-6AB3-71E5-ABC6-FED66275E9C2</designId>
+</OSDM_Design>
